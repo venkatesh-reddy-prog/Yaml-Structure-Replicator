@@ -1,0 +1,5 @@
+appname: test
+
+server: server1
+
+kind: config
