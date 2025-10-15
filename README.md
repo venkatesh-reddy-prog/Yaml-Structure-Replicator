@@ -30,7 +30,7 @@ git clone https://github.com/venkatesh-reddy-prog/Yaml-Structure-Replicator.git
 
 cd Yaml-Structure-Replicator
 
-3) Install Dependencies:
+2) Install Dependencies:
    
 You will need the PyYAML library for parsing YAML files.
 
@@ -51,7 +51,10 @@ Replace <SCRIPT_NAME> with the actual entry point of the script (e.g., main.py o
 We welcome contributions! If you have suggestions for improving the merging logic, handling more complex YAML structures, or streamlining the utility, please feel free to:
 
 Fork the repository.
+
 Create a feature branch (git checkout -b feature/your-feature).
+
 Commit your changes.
+
 Open a Pull Request.
 
