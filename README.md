@@ -1,4 +1,4 @@
-📁 **YAML Structure Replicator**
+📁 **YAML Structure Replicator**\\
 Intelligent Folder and YAML File Structure Replication with Data Integrity.
 
 The YAML Structure Replicator is a Python utility designed to duplicate a source directory structure into a destination directory, with a powerful focus on replicating and merging content within YAML configuration files while preserving existing data.
