@@ -1,9 +1,9 @@
-📁 YAML Structure Replicator
+📁 **YAML Structure Replicator**
 Intelligent Folder and YAML File Structure Replication with Data Integrity.
 
 The YAML Structure Replicator is a Python utility designed to duplicate a source directory structure into a destination directory, with a powerful focus on replicating and merging content within YAML configuration files while preserving existing data.
 
-✨ Key Features
+✨ Key Features:
 Full Structure Replication: Duplicates the entire folder and file hierarchy from the source path to a new destination path.
 
 YAML-Aware Merging: Specifically targets .yaml and .yml files, ensuring that any structural or key-value modifications from the source are applied to the destination.
@@ -12,10 +12,10 @@ Data Integrity Preservation (Non-Destructive Merge): The core feature is its abi
 
 Other File Handling: Files other than YAML are simply copied directly.
 
-🚀 Installation
+🚀 **Installation**:
 This project is a Python script and can be set up easily by cloning the repository.
 
-Prerequisites
+**Prerequisites**
 Python 3.x
 
 Steps
@@ -33,7 +33,7 @@ Bash
 pip install pyyaml
 (Note: If a requirements.txt file is present in the repository, use pip install -r requirements.txt instead.)
 
-🛠️ Usage
+**🛠️ Usage**
 The tool is executed by running the main Python script and providing the paths for the source and destination folders.
 
 Command Syntax
