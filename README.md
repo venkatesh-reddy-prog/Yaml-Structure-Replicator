@@ -18,7 +18,7 @@ Other File Handling: Files other than YAML are simply copied directly.
 
 This project is a Python script and can be set up easily by cloning the repository.
 
-###Prerequisites:
+### Prerequisites:
 
 Python 3.x
 
